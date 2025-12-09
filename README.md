@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 ## My skills
 
-###🛠️ Technologies & Tools
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -58,9 +57,7 @@ Intelligent leave request management system with AI classification, automated lo
 - **Features:** AI-powered urgency classification, automated workflow, real-time notifications
 - [View Project →](link-to-your-project)
 
-## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sk-mushfiq&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
 
