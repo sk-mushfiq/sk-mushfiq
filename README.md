@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a Python Developer passionate about building intelligent automation systems and integrating cutting-edge AI technologies into practical applications.
+I'm a Python Developer passionate about building intelligent systems and integrating cutting-edge AI technologies into practical applications.
 <!--
 **sk-mushfiq/sk-mushfiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
